@@ -1,0 +1,2 @@
+# EngineEditor
+GameEngineを使用したゲーム制作を支援する、WPFベースの拡張可能なゲームエディター。
